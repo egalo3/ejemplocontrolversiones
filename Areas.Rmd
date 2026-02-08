@@ -30,3 +30,11 @@ AreaTriangulo <- (base*altura)/2
 baserect <- 4
 alturarect <- 3
 AreaTriangulo <- baserect*alturarect
+```
+# Área trapecio
+```{r}
+b <- 4
+B <- 8
+H <- 2
+AreaTrapecio <- ((B+b)*H)/2
+```
