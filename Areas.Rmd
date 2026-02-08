@@ -34,3 +34,11 @@ h <- 8
 AreaRectangulo <- b*h
 ```
 
+# Área del trapecio
+```{r}
+B <- 6
+b <- 3
+H <- 5
+AreaTrapecio <- ((b+B)*H)/2
+```
+
